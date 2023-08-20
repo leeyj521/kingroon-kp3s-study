@@ -1,7 +1,7 @@
 # kingroon-kp3s-study
 Usage of Kingroon kp3s 3d printer and example stl files
 
-This is what the kit looks like:
+This is what the kit looks like
 ![3E092E0C-E936-4CDB-84D4-E41125456834_1_105_c](https://github.com/leeyj521/kingroon-kp3s-study/assets/48166047/9ea35103-2767-4f9b-b1bf-6e4a967e94dd)
 ![F0844014-38C3-402B-89D5-573F5AE9B92C_1_105_c](https://github.com/leeyj521/kingroon-kp3s-study/assets/48166047/0ae35929-1885-48ff-8b87-faf79f8b8fa8)
 
